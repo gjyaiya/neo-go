@@ -1,4 +1,4 @@
-module github.com/CityOfZion/neo-go
+module github.com/gjyaiya/neo-go
 
 require (
 	github.com/anthdm/rfc6979 v0.0.0-20141003034818-6a90f24967eb
